@@ -1,9 +1,9 @@
 # Site settings
 course_name: "SIT330-770 - Natural Language Processing"
 course_description: "This NLP unit provides a comprehensive introduction to both foundational and advanced concepts in Natural Language Processing. In the first half, students begin by exploring Information Retrieval, where they learn the basics of searching and retrieving relevant information from large datasets. The unit progresses into text processing techniques, essential for cleaning and preparing text data for further analysis. Students are then introduced to N-gram language models, a fundamental approach to understanding text sequences and predicting the next words based on prior context. The unit also covers Naïve Bayes classification and its application in sentiment analysis, helping students to classify text based on its emotional tone. Following this, vector embeddings and sequence labeling techniques are introduced, enabling students to represent words and phrases as numerical vectors and identify important sequences in text, such as named entities. <br/> The second half delves into advanced NLP topics, starting with neural networks and recurrent neural networks (RNNs), along with neural language models, offering a deeper understanding of how modern algorithms can process text sequentially. Students then study the powerful transformer architecture, which has revolutionized NLP by enabling large-scale, parallel processing of data. The unit also covers pretrained language models, focusing on how models like BERT and GPT can be fine-tuned for specific tasks. In the final part, students explore Large Language Models (LLMs) and their impact on NLP research and applications. The unit concludes by examining the intersection of NLP and speech processing, where students discover how language models are applied to audio data. This journey from foundational principles to cutting-edge advancements provides a solid grounding in NLP."
-course_semester: "Trimester 1, 2025"
+course_semester: "Trimester 1, 2026"
 
-baseurl: "/2025" # the subpath of your site, e.g. /blog/
+baseurl: "/2026" # the subpath of your site, e.g. /blog/
 url: "https://sit330-770.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Deakin University"
