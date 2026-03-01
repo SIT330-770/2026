@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 9
-date: 2025-05-05T10:00:00
+date: 2026-05-04T10:00:00
 title: Speech Processing & ASR
 tldr: "Speech Processing & ASR."
 hide_from_announcments: true

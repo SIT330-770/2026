@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 3
-date: 2025-03-17T10:00:00
+date: 2026-03-16T10:00:00
 title: Text processing
 tldr: "Regular Expressions, Text Normalization, Edit Distance."
 hide_from_announcments: true

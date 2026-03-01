@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 6
-date: 2025-04-07T10:00:00
+date: 2026-04-13T10:00:00
 title: Neural Networks for NLP
 tldr: "Neural Networks for NLP."
 hide_from_announcments: true

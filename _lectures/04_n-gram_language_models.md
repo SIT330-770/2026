@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 4
-date: 2025-03-24T10:00:00
+date: 2026-03-23T10:00:00
 title: N-gram Language Models
 tldr: "N-gram Language Models."
 hide_from_announcments: true

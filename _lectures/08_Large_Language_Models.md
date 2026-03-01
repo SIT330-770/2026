@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 8
-date: 2025-04-28T10:00:00
+date: 2026-04-27T10:00:00
 title: Large Language Models
 tldr: "Large Language Models."
 hide_from_announcments: true

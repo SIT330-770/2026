@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 5
-date: 2025-03-31T10:00:00
+date: 2026-03-30T10:00:00
 title: Vector Embeddings and Sequence Labeling
 tldr: "Vector Embeddings and Sequence Labeling."
 hide_from_announcments: true
