@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 10
-date: 2025-05-12T10:00:00
+date: 2026-05-11T10:00:00
 title: Dialogue Systems & Conversational AI
 tldr: "Dialogue Systems & Conversational AI."
 hide_from_announcments: true
